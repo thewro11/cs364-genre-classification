@@ -1,2 +1,10 @@
 .cache
 .ipynb_checkpoints
+chroma_data
+.vscode
+data
+music_data
+wave_radio_data
+chroma_data.7z
+wave_radio_data.7z
+.DS_Store
