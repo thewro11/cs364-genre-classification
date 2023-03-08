@@ -10,3 +10,5 @@ wave_radio_data.7z
 .DS_Store
 dataset-vec
 __pycache__
+/data_preprocess/chroma.npy
+/data_preprocess/mfccs.npy
