@@ -12,7 +12,7 @@ def load_chroma_features(audio_file,sr,duration,hop_length):
 
     return chroma
 
-def preprocess_audios_chroma(audio_files,num_processes,sr=22050,duration=5.0,hop_length=512):
+def preprocess_audios_chroma(audio_files,num_processes,sr,duration,hop_length):
     pool = multiprocessing.Pool(num_processes)
     func = partial(load_chroma_features,sr=sr,duration=duration,hop_length=hop_length)
     
