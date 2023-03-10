@@ -17,4 +17,4 @@
 
 ## 📦 Resource ของโครงงาน
 - [ลิงก์ไฟล์รูปภาพ chroma key และ wave form](https://drive.google.com/drive/folders/1jTkwsPyasSwUhkH10SsyLqFdTN3Dn2qh)
-- [ลิงก์ไฟล์เพลง .wav และ ข้อมูลที่แปลงเป็น .npy](https://drive.google.com/file/d/16YOO-ECQ_M4j4nF5oCfxYbD7wWBL5h5E/view?usp=share_link)
+- [ลิงก์ไฟล์เพลง .wav และ ข้อมูลที่แปลงเป็น .npy](https://drive.google.com/drive/folders/1ELZ49c3ArRA8uJ18U9WSkVPEltu5YN1q?usp=share_link)
