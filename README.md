@@ -20,4 +20,4 @@
 - [ลิงก์ไฟล์เพลง .wav และ ข้อมูลเพลงที่แปลงอยู่ในรูป chroma feature และ mfcc แล้วทำการจัดเก็บในรูป .npy (มีทั้งหมด 21 คลาส และขนาดของ matrix คือ (12,1000) และ (40,1000) ตามลำดับ)]
   - (https://drive.google.com/drive/folders/1ELZ49c3ArRA8uJ18U9WSkVPEltu5YN1q?usp=share_link)
 - [ข้อมูลเพลงที่แปลงอยู่ในรูป chroma feature และ mfcc แล้วทำการจัดเก็บในรูป .npy (ในข้อมูลนี้ได้ทำการปรับแก้ไขคลาสจาก 21 เหลือ 18 และปรับขนาดของ matrix ให้เหลือ (12,640) และ (20,640) ตามลำดับ)]
-  ` (https://drive.google.com/drive/folders/1_nA2P2ftalzBpe9k74xFVpytbTzaHcbv?usp=sharing) เหลือ 
+  - (https://drive.google.com/drive/folders/1_nA2P2ftalzBpe9k74xFVpytbTzaHcbv?usp=sharing)
